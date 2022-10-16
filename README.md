@@ -11,7 +11,7 @@ I'm a Software Engineering student at [AltSchool](https://thealtschool.com/) and
 - 🌱 I’m currently learning Golang.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Golang Backend (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtmadamori@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing [tmadamori@gmail.com](mailto:tmadamori@gmail.com).
 
 ---
 
